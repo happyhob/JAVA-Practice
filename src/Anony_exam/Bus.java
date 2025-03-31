@@ -1,0 +1,12 @@
+package Anony_exam;
+
+
+public class Bus extends Car {
+    public void a(){
+        System.out.println("A");
+    }public void b(){
+        System.out.println("B");
+    }public void c(){
+        System.out.println("C");
+    }
+}
